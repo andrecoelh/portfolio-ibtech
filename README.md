@@ -3,4 +3,4 @@ Projeto desenvolvido no IbTech utilizando HTML e CSS.
 
 ## 🔗 Projeto Online
 
-https://andrecoelh.github.io/portfolio-ibtech/
+(https://andrecoelh.github.io/ibtech-projeto01-andre_coelho/)
